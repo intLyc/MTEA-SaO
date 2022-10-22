@@ -12,9 +12,9 @@ The [MTO-Platform](https://github.com/intLyc/MTO-Platform) has incorporated rele
 
 ## Reference
 
-> @article{Li2022MTEA-SaO,
->     author = {Li, Yanchi and Gong, Wenyin and Li, Shuijia},
->     journal = {Information Sciences},
->     title = {Multitasking Optimization via An Adaptive Solver Multitasking Evolutionary Framework},
->     year = {2022}
-> }
+> @article{Li2022MTEA-SaO, 
+>     author = {Li, Yanchi and Gong, Wenyin and Li, Shuijia}, 
+>     journal = {Information Sciences}, 
+>     title = {Multitasking Optimization via An Adaptive Solver Multitasking Evolutionary Framework}, 
+>     year = {2022} 
+> } 
