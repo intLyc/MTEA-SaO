@@ -2,7 +2,15 @@ classdef MTEA_SaO < Algorithm
     % <MT-SO> <None>
 
     %------------------------------- Reference --------------------------------
-
+    % @Article{Li2022MTEA-SaO,
+    %   title      = {Multitasking Optimization via an Adaptive Solver Multitasking Evolutionary Framework},
+    %   author     = {Yanchi Li and Wenyin Gong and Shuijia Li},
+    %   journal    = {Information Sciences},
+    %   year       = {2022},
+    %   issn       = {0020-0255},
+    %   doi        = {https://doi.org/10.1016/j.ins.2022.10.099},
+    %   url        = {https://www.sciencedirect.com/science/article/pii/S0020025522012191},
+    % }
     %--------------------------------------------------------------------------
 
     %------------------------------- Copyright --------------------------------
