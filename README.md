@@ -6,6 +6,11 @@
 
 **Email: int_lyc@cug.edu.cn**
 
+## New Update
+
+We provide multiobjective version of MTEA-SaO with solvers NSGA-II and SPEA2-DE
+The code also included in the [MTO-Platform](https://github.com/intLyc/MTO-Platform), The source code of MO-MTEA-SaO can be found at [MO-MTEA-SaO](https://github.com/intLyc/MTO-Platform/blob/master/MTO/Algorithms/Multi-objective%20Multi-task/Multi-population/MO-MTEA-SaO/MO_MTEA_SaO.m)
+
 ## Note
 
 The provided MTEA_SaO.m file needs to be placed in the Algorithms Folder in  [MTO-Platform](https://github.com/intLyc/MTO-Platform) for use.
