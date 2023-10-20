@@ -1,8 +1,4 @@
-# MTEA-SaO
-
-## Multitasking Optimization via An Adaptive Solver Multitasking Evolutionary Framework
-
-**Author: Yanchi Li**
+# Multitasking Optimization via An Adaptive Solver Multitasking Evolutionary Framework (MTEA-SaO)
 
 **Email: int_lyc@cug.edu.cn**
 
